@@ -9,3 +9,8 @@ Here are a few renders generated using Blender 3D that were used to train the mo
 <img src = "https://user-images.githubusercontent.com/31384470/194786025-7e052bf4-ae0d-4e93-9aa4-fcc686f6fce7.jpg" width = "200" height = "200"></img>
 <img src = "https://user-images.githubusercontent.com/31384470/194786028-0a77496c-78b1-4b2c-b87e-e1932e0c9028.jpg" width = "200" height = "200"></img>
 <img src = "https://user-images.githubusercontent.com/31384470/194786027-24f05c54-5c99-41dc-b72c-31f57707b733.jpg" width = "200" height = "200"></img>
+</br>
+</br>
+
+<a href="https://drive.google.com/file/d/1QUbtXyYRWzY9CVBqseyJpRAIkNosu9Om/view?usp=sharing">Here</a> is the link to the dataset. 
+<ins>Make sure to divide the bounding box coordinates with 512 through your script before proceeding.</ins>
